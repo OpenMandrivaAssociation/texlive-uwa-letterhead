@@ -1,6 +1,6 @@
 Name:		texlive-uwa-letterhead
 Version:	64491
-Release:	1
+Release:	2
 Summary:	The letterhead of the University of Western Australia
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uwa-letterhead
