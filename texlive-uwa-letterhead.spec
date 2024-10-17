@@ -3,7 +3,7 @@ Version:	64491
 Release:	2
 Summary:	The letterhead of the University of Western Australia
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uwa-letterhead
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/uwa-letterhead
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uwa-letterhead.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uwa-letterhead.doc.r%{version}.tar.xz
